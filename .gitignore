@@ -1,0 +1,12 @@
+# --- VS CODE & SISTEMA ---
+.vscode/
+Thumbs.db
+desktop.ini
+
+# --- EXCLUSIONES DE COMPILACIÓN ---
+*.exe
+*.msi
+*.bin
+
+# --- ARCHIVOS TEMPORALES ---
+*.pdf_preview
