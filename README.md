@@ -1,11 +1,11 @@
-# 🚀 Proyecto: (Hola Mundo) — LPR 2026
+# 🚀 Proyecto: (Sistema Proyecto) — LPR 2026
 
-## Escuela de Educación Secundaria Técnica N° 10 "The Avengers" — Vicente López
+## Escuela de Educación Secundaria Técnica N° 10 "El primer vengador" — Vicente López
 
 * **Curso:** 5° Año — Especialidad Informática / Programación
 * **Materia:** Laboratorio de Programación (LPR)
 * **Profesor:** Prof. York
-* **Estudiante:** Argento Coqui
+* **Estudiante:** Rogers Steve
 
 ---
 
@@ -17,7 +17,7 @@ Esta actividad corresponde a la configuración inicial del Entorno de Desarrollo
 
 ## 👥 Integrantes (Entrega Individual)
 
-* **Estudiante:** Argento Coqui
+* **Estudiante:** Rogers Steve
 * **Curso / Grupo:** 5° — Grupo A/B
 * **Especialidad:** Técnico en Informática/Programación
 
@@ -43,8 +43,8 @@ Asegúrate de abrir la terminal integrada de VS Code (`Ctrl + Ñ`) y estar parad
    
 2. **Compilar el código fuente modular:**
    ```powershell
-   g++ ./src/main.cpp -o ./src/holamundo.exe
+   g++ ./src/main.cpp -o ./src/sistema.exe
    
 3. **Ejecutar la aplicación:**
    ```powershell
-   ./src/holamundo.exe
+   ./src/sistema.exe
