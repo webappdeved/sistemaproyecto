@@ -13,7 +13,7 @@
 
 ## 📌 Descripción de la Actividad
 
-Esta actividad corresponde a la configuración inicial del Entorno de Desarrollo Integrado (IDE) y la primera compilación nativa en C++. Los estudiantes configuran su espacio de trabajo en Visual Studio Code, estructuran el repositorio profesionalmente con control de versiones en Git, y compilan su primer binario de consola (`holamundo.exe`) utilizando el compilador GCC/G++ en Windows 10/11.
+Esta actividad corresponde a la configuración inicial del Entorno de Desarrollo Integrado (IDE) y la compilación nativa en C++. Los estudiantes configuran su espacio de trabajo en Visual Studio Code, estructuran el repositorio profesionalmente en Git, y compilan su primer binario de consola (`sistema.exe`) utilizando el compilador GCC/G++ en Windows 10/11.
 
 ---
 
