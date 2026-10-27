@@ -1,4 +1,6 @@
-# 🚀 Proyecto: (Sistema Proyecto) — LPR 2026
+# 🚀 Proyecto: (Sistema Proyecto) — LPR
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![LPR](https://img.shields.io/badge/Curso-LPR-F8991D?style=for-the-badge)
 
 ## Escuela de Educación Secundaria Técnica N° 10 "El primer vengador" — Vicente López
 
